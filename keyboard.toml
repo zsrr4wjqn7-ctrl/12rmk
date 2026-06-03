@@ -9,7 +9,7 @@ chip = "rp2040"
 
 [matrix]
 # Row and col pins are mandatory
-row_pins = ["PIN_6", "PIN_7", "PIN_8", "PIN_9"]
+row_pins = ["PIN_8", "PIN_7", "PIN_8", "PIN_9"]
 col_pins = ["PIN_19", "PIN_20", "PIN_21"]
 
 # RMK uses col2row as the default matrix diode direction, if you want to use a row2col matrix, add `row2col = true`
